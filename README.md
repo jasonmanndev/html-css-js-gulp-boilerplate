@@ -16,10 +16,10 @@
 gulp
 ```
 
-## Run tests
+## Build
 
 ```sh
-npm run test
+npm run build
 ```
 
 ## Author
