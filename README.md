@@ -19,7 +19,7 @@ gulp
 ## Build
 
 ```sh
-npm run build
+gulp build
 ```
 
 ## Author
